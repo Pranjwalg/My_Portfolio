@@ -14,7 +14,7 @@ const resume = () => {
         <title>Pranjwal | Resume</title>
         <meta
           name='description'
-          content='I’m a  full stack developer '
+          content="I'm a  full stack developer"
         />
         <link rel='icon' href='/fav.png' />
       </Head>
@@ -42,7 +42,7 @@ const resume = () => {
         </div>
         <div className='text-center py-4 text-xl font-bold uppercase tracking-wider'>
           <div className='hidden sm:block'>
-           <h6>I have a good understanding of Programming Language, web development tools handling the project's applications. Looking forward
+           <h6>I have a good understanding of Programming Language, web development tools handling the projects applications. Looking forward
 to learning new things in this field. I want to work with an organization that can enhance my knowledge as well as my technical skills.</h6>
           </div>
         </div>
@@ -159,7 +159,7 @@ programs. * How to declare and use Java Datatypes & Identifiers, work with Java 
            
           <p className='py-1 bold'>
           
-          In this course, I'll learn and practice the most fundamental ES6 features with examples. and I Will start writing modern JavaScript and understand I need ES6. Mastering modern JavaScript starts with understanding the
+          In this course, I ll learn and practice the most fundamental ES6 features with examples. and I Will start writing modern JavaScript and understand I need ES6. Mastering modern JavaScript starts with understanding the
 reasoning behind the main ES6 features - arrow functions, variables, template literals, etc.
           </p>
           
